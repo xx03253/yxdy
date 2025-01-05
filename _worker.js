@@ -1,10 +1,16 @@
 
 let 快速订阅访问入口 = ['auto'];
-let addresses = [];
-let addressesapi = [];
+let addresses = [
+	'icook.tw:2053#官方优选域名',
+	'cloudflare.cfgo.cc#优选官方线路',
+	'wuweiwuwo.cf.090227.xyz#自改域名',];
+let addressesapi = ['https://raw.githubusercontent.com/wuweiwuwo/WorkerVless2sub/master/addressesapi.txt', 
+	'https://raw.githubusercontent.com/wuweiwuwo/WorkerVless2sub/master/goodDomain.txt',];
 
-let addressesnotls = [];
-let addressesnotlsapi = [];
+let addressesnotls = ['www.visa.com.sg#官方优选域名',
+	'www.wto.org:8080#官方优选域名',
+	'www.who.int:8880#官方优选域名',];
+let addressesnotlsapi = ['https://raw.githubusercontent.com/wuweiwuwo/WorkerVless2sub/master/addressesapi.txt', ];
 
 let addressescsv = [];
 let DLS = 7;
@@ -41,7 +47,7 @@ let MamaJustKilledAMan = ['telegram', 'twitter', 'miaoko'];
 let proxyIPPool = [];
 let socks5Data;
 let alpn = 'h3';
-let 网络备案 = `<a href='https://t.me/CMLiussss'>萌ICP备-20240707号</a>`;//写你自己的维护者广告
+let 网络备案 = `<a>帅祥专用</a>`;//写你自己的维护者广告
 let 额外ID = '0';
 let 加密方式 = 'auto';
 let 网站图标, 网站头像, 网站背景;
