@@ -7,22 +7,18 @@ let mytoken= ['xxu'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
-	'wuweiwuwo.cf.090227.xyz#自改域名',
-];
+	'wuweiwuwo.cf.090227.xyz#自改域名'];
 
 // 设置优选地址api接口
 let addressesapi = [
 	'https://raw.githubusercontent.com/wuweiwuwo/WorkerVless2sub/master/addressesapi.txt', 
-	'https://raw.githubusercontent.com/wuweiwuwo/WorkerVless2sub/master/goodDomain.txt',
-	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
-];
+	'https://raw.githubusercontent.com/wuweiwuwo/WorkerVless2sub/master/goodDomain.txt'];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',
-];
+	'www.who.int:8880#官方优选域名'];
 
 // 设置优选noTLS地址api接口
 let addressesnotlsapi = [
