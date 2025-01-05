@@ -6,11 +6,10 @@ let addressesapi = [];
 let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',
 ];
 let addressesnotlsapi = ['https://raw.githubusercontent.com/xx03253/yxdy/main/addressesapi.txt'];
 
-let addressescsv = ['https://raw.githubusercontent.com/xx03253/yxdy/main/addressescsv.csv'];
+let addressescsv = [];
 let DLS = 7;
 let remarkIndex = 1;//CSV备注所在列偏移量
 
