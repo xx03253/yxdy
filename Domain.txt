@@ -1,5 +1,5 @@
-bestcf.030101.xyz#优选1【请勿测速】
-bestcf.onecf.eu.org#优选2【请勿测速】
+bestcf.030101.xyz:8433#优选1【请勿测速】
+bestcf.onecf.eu.org:8433#优选2【请勿测速】
 cdn.2020111.xyz#优选3【请勿测速】
 cdn.tzpro.xyz#优选4【请勿测速】
 cf.090227.xyz#优选5【请勿测速】
